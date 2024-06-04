@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "cuentacuentos-2",
+    "slug": "snack-f4858a6b-c5c9-4b6a-a590-a29191ba9bee",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "CuentaC etapa 1 PROC81 PANTALLAS\nCuentaC etapa 1 PROC82 UI e Historias\nCuentaC etapa2 PROC83 CrearHistorias"
+  }
+}
